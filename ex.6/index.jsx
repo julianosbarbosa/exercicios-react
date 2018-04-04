@@ -1,9 +1,9 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import SilvaFamily from './silvaFamily'
+import SilvaFamily from './silvaFamly'
+
 
 ReactDOM.render(
-   
-        <SilvaFamily/>
-   
+    <SilvaFamily />
+
 , document.getElementById('app'))
